@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "This Love",
+  "base_artist": "アンジェラ・アキ",
+  "createdAt": "2026-03-19T03:42:01.532298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Love",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/01_This_Love_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Love",
+      "artist": "The Magic Numbers",
+      "has_synced": true,
+      "path": "select/02_This_Love_The_Magic_Numbers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What About This Love",
+      "artist": "Mr. Fingers",
+      "has_synced": false,
+      "path": "select/03_What_About_This_Love_Mr._Fingers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Love",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/04_This_Love_Travis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/05_Is_This_Love_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All This Love",
+      "artist": "DeBarge",
+      "has_synced": true,
+      "path": "select/06_All_This_Love_DeBarge.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All This Love",
+      "artist": "DeBarge",
+      "has_synced": true,
+      "path": "select/07_All_This_Love_DeBarge.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Is This Love?",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/08_Is_This_Love_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ready For This Love",
+      "artist": "Samantha Fox",
+      "has_synced": true,
+      "path": "select/09_Ready_For_This_Love_Samantha_Fox.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Love",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/10_This_Love_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Love Will Last",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/11_This_Love_Will_Last_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Love",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_This_Love_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Love",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/13_This_Love_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Love Is All We Need",
+      "artist": "Acid House Kings",
+      "has_synced": true,
+      "path": "select/14_This_Love_Is_All_We_Need_Acid_House_Kings.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/15_Is_This_Love_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Love",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_01_This_Love_アンジェラ・アキ.txt"
+    }
+  ]
+}
